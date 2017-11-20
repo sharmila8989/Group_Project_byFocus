@@ -1,0 +1,17 @@
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\bin\Debug\LegoProject2017_byFocus.exe.config
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\obj\Debug\LegoProject2017_byFocus.csprojResolveAssemblyReference.cache
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\obj\Debug\App.g.cs
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\obj\Debug\LegoProject2017_byFocus_MarkupCompile.cache
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\bin\Debug\LegoProject2017_byFocus.exe
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\bin\Debug\LegoProject2017_byFocus.pdb
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\bin\Debug\Lego.Ev3.Desktop.dll
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\bin\Debug\Lego.Ev3.Desktop.pdb
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\bin\Debug\Lego.Ev3.Desktop.xml
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\obj\Debug\MainWindow.g.cs
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\obj\Debug\LegoProject2017_byFocus_MarkupCompile.lref
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\obj\Debug\MainWindow.baml
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\obj\Debug\LegoProject2017_byFocus.g.resources
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\obj\Debug\LegoProject2017_byFocus.Properties.Resources.resources
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\obj\Debug\LegoProject2017_byFocus.csproj.GenerateResource.Cache
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\obj\Debug\LegoProject2017_byFocus.exe
+C:\Users\sharm\Desktop\home work\LegoProject2017_byFocus\LegoProject2017_byFocus\obj\Debug\LegoProject2017_byFocus.pdb
